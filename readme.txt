@@ -34,7 +34,7 @@ return {
 
 now you can run the app by simply enter:
 
-simple_geiop
+simple_geoip
 
 # Uninstalling
 
