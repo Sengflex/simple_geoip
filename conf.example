@@ -1,0 +1,8 @@
+return {
+	-- intervalo de refresh em segundos. O serviço ipinfo.io impõe 
+	-- um limite de até 50k mensais
+	interval_secs = 30,
+	-- Crie uma conta e obtenha uma chave de API em:
+	-- http://ipinfo.io
+	api_key = "<API_KEY>"
+}
